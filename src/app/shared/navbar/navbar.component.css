@@ -1,0 +1,9 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+span.logo{
+    outline: none;
+    border: 0;
+    cursor: pointer;
+}
